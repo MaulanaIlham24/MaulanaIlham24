@@ -1,1 +1,2 @@
-Perkenalkan nama saya Maulana Ilham Hamdhallah, Saya merupakan Mahasiswa Prodi Informatika Universitas Islam Negeri Sunan Kalijaga, Repository ini saya buat dengan tujuan menyelesaikan tugas osjur yang saya miliki...
+Perkenalkan nama saya Maulana Ilham Hamdhallah, Saya merupakan Mahasiswa Prodi Informatika Universitas Islam Negeri Sunan Kalijaga, Github ini saya buat untuk mini project yang saya buat atau sekedar tugas-tugas kuliah saya
+
